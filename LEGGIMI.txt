@@ -1,0 +1,18 @@
+IMPLEMENTAZIONE ANT COLONY: 
+Pacchetto usato: sko (scikit-opt: swarm intelligence in Python: https://scikit-opt.github.io/scikit-opt/#/en/)
+Parametri:
+	size_pop = 30 (numero "formiche")
+	max_iter = 30 (numero massimo iterazioni algoritmo)
+	
+
+IMPLEMENTAZIONE GENETICO: 
+Pacchetto usato: mlrose (Machine Learning, Randomized Optimization and Search: https://github.com/gkhayes/mlrose)
+Parametri:
+	size_pop = 2000 (numero individui)
+	max_attempts = 30 (numero massimo iterazioni per ogni step)
+	mutation_prob = 0.2 (20% prob. di mutazione)
+	
+IMPLEMENTAZIONE GREEDY: 
+Codice fatto in casa confrontando con altri su internet
+	
+
